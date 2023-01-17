@@ -14,7 +14,23 @@ Despite the advent of digital technology, SSTV is still used by many amateur rad
 
 <h3>Existing protocols</h3>
 
+The most popular SSTV protocols include:
+
+Martin M1
+<br>
+Scottie DX
+<br>
+Robot 36
+<br>
+PD50
+<br>
+SSTV-Robot
+
 <h3>Resolution limitation</h3>
+
+The most common resolutions used in SSTV are 320x256 pixels and 640x480 pixels. Some more recent protocols like PD50 uses resolution of 640x480 pixels, which is considered as the highest resolution for SSTV.
+<br>
+<img src="https://user-images.githubusercontent.com/80101155/212863509-97a5fd27-a07f-4d50-9755-2f9e68a2100c.jpg" width="25%">
 
 <h3>URSSTV, born in 2023. Why?</h3>
 
